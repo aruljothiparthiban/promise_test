@@ -1,0 +1,15 @@
+{
+  "name": "promise_test",
+  "version": "0.0.1",
+  "description": "sample promise test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aruljothi Parthiban",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "promise": "^7.1.1"
+  }
+}
